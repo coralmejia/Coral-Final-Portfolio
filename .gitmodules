@@ -1,0 +1,9 @@
+[submodule "Technical-Projects/Expense-Tracker-API"]
+	path = Technical-Projects/Expense-Tracker-API
+	url = https://github.com/coralmejia/expense-tracker-api_1.git
+[submodule "Technical-Projects/Inventory-App-MySQL"]
+	path = Technical-Projects/Inventory-App-MySQL
+	url = https://github.com/coralmejia/inventory_app_project_v2_mysql.git
+[submodule "Technical-Projects/Cars-React"]
+	path = Technical-Projects/Cars-React
+	url = https://github.com/coralmejia/react_cars_demo.git
