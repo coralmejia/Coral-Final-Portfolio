@@ -7,3 +7,9 @@
 [submodule "Technical-Projects/Cars-React"]
 	path = Technical-Projects/Cars-React
 	url = https://github.com/coralmejia/react_cars_demo.git
+[submodule "skrs-app"]
+	path = skrs-app
+	url = https://github.com/Easy-Scrum-Easy-Go/snkrs-app.git
+[submodule "Technical-Projects/skrs-app"]
+	path = Technical-Projects/skrs-app
+	url = https://github.com/Easy-Scrum-Easy-Go/snkrs-app.git
