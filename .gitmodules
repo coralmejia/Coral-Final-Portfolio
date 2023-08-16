@@ -13,3 +13,6 @@
 [submodule "Technical-Projects/skrs-app"]
 	path = Technical-Projects/skrs-app
 	url = https://github.com/Easy-Scrum-Easy-Go/snkrs-app.git
+[submodule "Technical-Projects/Project-1"]
+	path = Technical-Projects/Project-1
+	url = https://github.com/Multiverse-Project-1/Project-1.git

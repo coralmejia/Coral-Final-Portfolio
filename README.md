@@ -1,4 +1,4 @@
-![Corals pic](Coralspic.png) 
+![Corals pic](coral.png) 
 
 # Multiverse Final Portfolio
 Below are some of the projects I've worked on during the apprenticeship as a jr.software engineer.
