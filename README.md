@@ -4,16 +4,18 @@
 Below are some of the projects I've worked on during the apprenticeship as a jr.software engineer.
 
 ## Overview
-During my Multiverse apprenticeship at American Express I delivered value through mainly admninistrative work. Helping the team out with updates, giving employeesb access to apps, and adding members to apps. Most of my tech experience and practice was on Multiverse days. (The 3 month bootcamp and every friday). Which wasz gratley appreciatd. Without Multiverse's curriculum I wouldn't have learned as much as I have. Implementing Amex's blue box values of leadership, integrity, and hardwork is what allowed me to be succussful in the company. Along with coommunication and time management skills.
+As part of my apprenticeship program with American Express, I gained hands-on experience in software engineering through a curriculum designed and taught by Multiverse. This comprehensive program emphasized practical application, technical skills, and collaboration, providing a well-rounded foundation in the field of software development. During this apprenticeship, I worked on real-world projects, contributing to the development of scalable, secure, and user-friendly solutions. The program provided in-depth training in key areas such as object-oriented programming, cloud computing, and Agile methodologies, equipping me with the skills required for modern software engineering roles.
 
-## Durable Skills
-- leadership
-- integrity
-- hardwork
-- effective coommunication
-- time management
-- problem solving
-- knowledge
+**Key Skills and Competencies for an Apprenticeship at American Express** 
+To excel in an apprenticeship like this, a strong foundation in the following skills is essential:
+1. **Programming Languages** – Proficiency in languages such as Java, Python, or JavaScript, depending on the specific team or project.
+2. **Data Structures and Algorithms** – Understanding of foundational computer science concepts to build efficient software solutions.
+3. **Cloud Platforms** – Familiarity with cloud computing services like AWS or Google Cloud to develop and deploy cloud-native applications.
+4. **Agile Methodologies** – Experience working within Agile frameworks (Scrum or Kanban), with a focus on iterative development, collaboration, and continuous improvement.
+5. **Version Control (Git)** – Knowledge of version control systems, particularly Git, to manage and track code changes collaboratively.
+6. **Problem-Solving and Debugging** – The ability to identify, troubleshoot, and resolve issues during development.
+7. **Teamwork and Communication** – Strong collaboration and communication skills to work effectively within cross-functional teams. 8. **Continuous Learning** – A growth mindset and the willingness to adapt and learn new technologies as required. Throughout the program, the focus was on honing these technical skills while building the soft skills necessary to thrive in a dynamic, fast-paced work environment. ---
+
 
 ## Projects
 My projects are seperated into the following categories:
